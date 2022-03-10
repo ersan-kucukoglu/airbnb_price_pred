@@ -1,1 +1,1 @@
-# airbnb_price_pred
+# Airbnb Pricing in Shanghai / China
